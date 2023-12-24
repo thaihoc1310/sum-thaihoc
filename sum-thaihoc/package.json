@@ -1,0 +1,16 @@
+{
+  "name": "sum-thaihoc",
+  "version": "1.0.0",
+  "description": "một thư viện giúp bạn tính tổng 2 số bất kì",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url" : "git+https://github.com/thaihoc1310/sum-thaihoc"
+  },
+  "keywords": ["sum","add","tong","cong"],
+  "author": "Bui Thai Hoc",
+  "license": "MIT"
+}
